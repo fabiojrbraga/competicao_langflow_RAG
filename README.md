@@ -34,6 +34,8 @@ Este projeto é um pipeline feito em Langflow projetado para funcionar como uma 
    - Comece com o Carregador de Arquivos para ingerir os arquivos necessários. Na competição usamos o livro Cosmos de Carl Sagan. Mas pode subir qualquer conteúdo em PDF que deve funcionar.
    - Faça a ingestão de dados processando o nó `Chroma DB` do flow de ingestão de dados 
    - Para iniciar o chat, Execute o flow no playground ou executando o nó Chat Output
+  
+**Obs:** Se desejar enviar respotas para avaliação, configure as chaves do Langwatch no código do componente `Langwatch Evaluator` nos espaços demarcados com ``"<your LANGWATCH_API_KEY>"``. Caso não deseje avaliar as respostas, basta excluir o compontente e conectar a saída do componente `OpenAI` diretamente ao compontente `Chat Output`
 
 ## Contribuição
 
