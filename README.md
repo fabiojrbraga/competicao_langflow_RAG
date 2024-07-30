@@ -10,7 +10,7 @@ Este projeto é um pipeline feito em Langflow projetado para funcionar como uma 
    - File Uploader
    - Text Split
    - ChromaDB
-
+![Flow Ingestão de Dados](./print_1.PNG)
 2. **Flow de Chat**
    - Chat Input
    - Open AI Embedding
@@ -20,6 +20,7 @@ Este projeto é um pipeline feito em Langflow projetado para funcionar como uma 
    - OpenAI
    - Langwatch Evaluator
    - Chat Output
+![Flow Chat](print_2.PNG)
 
 
 ## Como Executar o Projeto
