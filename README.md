@@ -1,8 +1,8 @@
-# Projeto Langflow: Semana2 Campeão
+# Projeto Langflow: RAG Campeão IA DEVs semana 2.
 
 ## Visão Geral
 
-Este projeto é um pipeline feito em Langflow projetado para funcionar como uma solução RAG (Retrieval Augmented Generation). O fluxo faz a ingestão de dados utilizando RecursiveTextSpliting, processamento, embedding e gravação no banco vetorial ChomaDB. Este README fornece uma visão geral da construção do fluxo, detalhes sobre cada nó e instruções sobre como executar o projeto.
+Este projeto é um pipeline feito em Langflow projetado para funcionar como uma solução RAG (Retrieval Augmented Generation). O fluxo faz a ingestão de dados utilizando RecursiveTextSpliting, embedding e gravação no banco vetorial ChomaDB. Este README fornece uma visão geral da construção do fluxo, detalhes sobre cada nó e instruções sobre como executar o projeto.
 
 ## Componentes dos Flows
 
