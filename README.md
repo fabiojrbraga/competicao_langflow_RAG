@@ -24,7 +24,7 @@ Este projeto é um pipeline feito em Langflow projetado para funcionar como uma 
 
 ## Como Executar o Projeto
 
-1. **Importar o flow no Langflow (`SEMANA2_CAMPEAO.json`) 
+1. **Importar o flow no Langflow (`SEMANA2_CAMPEAO.json`)**
 
 2. **Configurar as API KEYS**
 
