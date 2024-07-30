@@ -32,8 +32,8 @@ Este projeto é um pipeline feito em Langflow projetado para funcionar como uma 
 3. **Executar os Componentes**:
    - Siga as conexões entre os nós para entender o fluxo de dados.
    - Comece com o Carregador de Arquivos para ingerir os arquivos necessários. Na competição usamos o livro Cosmos de Carl Sagan. Mas pode subir qualquer conteúdo em PDF que deve funcionar.
-   - Faça a ingestão de dados processando o nó Chroma Vector Store
-   - Execute o flow no playground ou executando o nó Chat Output
+   - Faça a ingestão de dados processando o nó `Chroma DB` do flow de ingestão de dados 
+   - Para iniciar o chat, Execute o flow no playground ou executando o nó Chat Output
 
 ## Contribuição
 
